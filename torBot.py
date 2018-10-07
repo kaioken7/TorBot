@@ -8,7 +8,7 @@ from modules import (colors, getemails, pagereader, getweblinks, updater,
                      info, savefile)
 
 # GLOBAL CONSTS
-LOCALHOST = "127.0.0.1"
+LOCALHOST = " " "127.0.0.1" " "
 DEFPORT = 9050
 COLOR = colors.Colors()
 
